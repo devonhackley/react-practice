@@ -1,0 +1,6 @@
+{
+  "present": [
+    "react",
+    ["es2015", {"modules": false}]
+  ]
+}
